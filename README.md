@@ -30,7 +30,7 @@ This project provides custom proxy groups, regional node selection, automatic no
 
 ## Usage
 
-1. Open the `Config-EliteF.ini` file in this repository.
+1. Open the `Config-EliteL.ini` file in this repository.
 2. Copy its **Raw** URL.
 3. Add the URL to the external configuration section of a compatible Subconverter service.
 4. Provide your proxy subscription URL and select the desired target format.
